@@ -1,0 +1,9 @@
+[submodule "byteplanet-admin"]
+	path = byteplanet-admin
+	url = https://github.com/byteplanet/byteplanet-admin.git
+[submodule "byteplanet"]
+	path = byteplanet
+	url = https://github.com/byteplanet/byteplanet.git
+[submodule "byteplanet-web"]
+	path = byteplanet-web
+	url = https://github.com/byteplanet/byteplanet-web.git
